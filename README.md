@@ -18,20 +18,20 @@ The dataset obtained from Kaggle contains license plate images from 50 US states
 
 - **Data source** [kaggle](https://www.kaggle.com/datasets/gpiosenka/us-license-plates-image-classification/data)
 
-# Model Used
+### Model Used
 VGG16 - RestNet (Best Performing Model) - EasyOCR
 
-# Technologies Used
+### Technologies Used
 Python - PyTorch - Flask - Fastdup - HTML
 
-# Training and Optimisation
+## Training and Optimisation
 Adam optimizer - SGD optimizer - Learning rate adjustment - Weight decay regularisation
 
-# Model Performance
+### Model Performance
 Accuracy: 92.14% - Precision: 92.40% - Recall: 92.14% - F1 Score: 91.67%
 
 # Conclusion
 The model successfully predicts license plate state and registration numbers with high classification accuracy on unseen test data, demonstrating reliable performance and strong potential for real-world applications.
 
-# Result snippet
+## Result snippet
   <img src="Images/Screenshot_1.png" width=250> <image src="Images/Screenshot_2.png" width=250>
