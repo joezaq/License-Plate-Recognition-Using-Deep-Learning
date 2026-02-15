@@ -35,3 +35,6 @@ The model successfully predicts license plate state and registration numbers wit
 
 ## Result snippet
   <img src="Images/Screenshot_1.png" width=250> <image src="Images/Screenshot_2.png" width=250>
+
+
+  *Request access for [.ipynb](https://colab.research.google.com/drive/1WaFL_XSHzbuvNBYW8wtXDp5xI0uvJSdB?usp=sharing)*
