@@ -28,7 +28,7 @@ Python - PyTorch - Flask - Fastdup - HTML
 Adam optimizer - SGD optimiser - Learning rate adjustment - Weight decay regularisation
 
 ### Model Performance
-Accuracy: 92.14% - Precision: 92.40% - Recall: 92.14% - F1 Score: 91.67%
+Accuracy: 92.14% - Precision: 92.40% - Recall: 92.10% - F1 Score: 91.67%
 
 # Conclusion
 The model successfully predicts license plate state and registration numbers with high classification accuracy on unseen test data, demonstrating reliable performance and strong potential for real-world applications.
