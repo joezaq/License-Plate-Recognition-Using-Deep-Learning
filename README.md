@@ -25,7 +25,7 @@ VGG16 - RestNet (Best Performing Model) - EasyOCR
 Python - PyTorch - Flask - Fastdup - HTML
 
 ## Training and Optimisation
-Adam optimizer - SGD optimiser - Learning rate adjustment - Weight decay regularisation
+Adam optimiser - SGD optimiser - Learning rate adjustment - Weight decay regularisation
 
 ### Model Performance
 Accuracy: 92.14% - Precision: 92.40% - Recall: 92.10% - F1 Score: 91.67%
