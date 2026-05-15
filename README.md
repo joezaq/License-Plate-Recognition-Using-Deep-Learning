@@ -11,7 +11,7 @@ The solution supports applications such as traffic management, automated parking
 - Predict license plate state classification.
 - Extract registration numbers from images.
 - Improve image recognition accuracy using deep learning models.
-- Demonstrate real-world AI applications in smart systems
+- Demonstrate real-world AI applications in smart systems.
 
 # Data Description
 The dataset obtained from Kaggle contains license plate images from 50 US states, the District of Columbia, and 5 US territories. Images are high-quality, cropped, and cleaned to remove duplicates. Image size is 128 × 224 × 3.
