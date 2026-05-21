@@ -4,7 +4,7 @@ A deep learning-based license plate recognition system for accurate state and ve
 # Overview
 This project implements a deep learning-based license plate recognition system for accurate state and vehicle registration number prediction from license plate images. The system uses Convolutional Neural Networks (CNNs) and Optical Character Recognition (OCR) to classify license plate images and extract text information.
 
-The solution supports applications such as traffic management, automated parking systems, security monitoring, and vehicle tracking.
+The solution supports applications such as traffic management, automated parking systems, security monitoring, and vehicle tracking..
 
 # Objectives
 - Develop an automated license plate recognition system.
